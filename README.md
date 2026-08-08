@@ -18,33 +18,5 @@ A comprehensive repository for planning, tracking, and managing catering operati
 * **Inventory & Wastage Monitor:** Log incoming raw materials/packaged meals and track post-event food distribution or wastage.
 * **Dietary Preferences & Allergies Log:** Aggregate participant preferences (e.g., Jain, Vegan, Gluten-Free).
 
----
 
-#🛠️ Tech Stack & Tools
 
-* **Frontend / UI:** React / HTML5 + Bootstrap (or static dashboard)
-* **Backend:** Node.js / Python (Flask/Django) *(if applicable)*
-* **Data Format:** JSON / CSV for menu items, vendor details, and budget logs
-* **Documentation:** Markdown
-
----
-
-## 📂 Repository Structure
-
-```text
-catering-for-college-event/
-├── docs/
-│   ├── vendor-quotes.csv
-│   └── event-timeline.md
-├── data/
-│   ├── menu-items.json
-│   └── dietary-restrictions.csv
-├── src/
-│   ├── index.html
-│   ├── app.js
-│   └── styles.css
-├── templates/
-│   └── catering-proposal-template.docx
-├── .gitignore
-├── LICENSE
-└── README.md
