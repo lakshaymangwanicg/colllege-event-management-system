@@ -2,19 +2,41 @@
 this is a college event management system made by college students
 
 
-# Catering Management System for College Events  🍽️🎉
+# Catering Management System for College Events # 🍽️🎉
 
 A comprehensive repository for planning, tracking, and managing catering operations for college festivals, technical symposiums, and institutional events.
 
----
+# Food & Hospitality Management #
 
-# 📌 Features #
+Manage food arrangements, menus, quantities, and catering requirements for every college event.
 
-* **Menu Management:** Categorized menu selection (Breakfast, Lunch, High Tea, Dinner) with vegetarian, non-vegetarian, and dietary restriction tags.
-* **Headcount & Budget Estimator:** Real-time calculation of total food requirements based on attendee registration numbers and budget per plate.
-* **Vendor & Quotation Tracker:** Comparative matrix to log and evaluate vendor quotes, payment schedules, and advance deposits.
-* **Inventory & Wastage Monitor:** Log incoming raw materials/packaged meals and track post-event food distribution or wastage.
-* **Dietary Preferences & Allergies Log:** Aggregate participant preferences (e.g., Jain, Vegan, Gluten-Free).
+# Catering Services #
+
+Event Meal Planning
+Menu Selection
+Snacks & Refreshments
+Lunch & Dinner
+Beverages
+Special Dietary Requirements
+
+# Upcoming Events #
+
+Freshers' Party 2026
+Tech Fest 2026
+Cultural Night
+Annual Sports Meet
+Hackathon 2026
+
+# Catering Details #
+
+Event: Tech Fest 2026
+Expected Guests: 250
+Meal Type: Lunch + Refreshments
+Menu: Veg Biryani, Paneer Curry, Naan, Salad, Dessert
+
+# Catering Request #
+
+Submit a catering request by providing the event name, date, number of guests, meal requirements, menu preferences, and special dietary requirements.
 
 
 
