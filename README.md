@@ -1,4 +1,4 @@
-# colllege-event-management-system
+# colllege-event-management-system #
 
 
 # Treasurer Dashboard #
