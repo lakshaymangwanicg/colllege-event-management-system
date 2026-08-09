@@ -2,7 +2,7 @@
 this is a college event management system made by college students
 
 
-# Catering Management System for College Events # 🍽️🎉
+# Catering Management System for College Events  🍽️🎉
 
 A comprehensive repository for planning, tracking, and managing catering operations for college festivals, technical symposiums, and institutional events.
 
